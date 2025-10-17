@@ -25,7 +25,7 @@ The backbone of the transformer. Implements scaled dot-product attention with mu
 A complete transformer layer combining attention and feed-forward networks with residual connections and layer normalization. Uses pre-normalization (applying norm before the layer) for improved training stability.
 
 
-![Transformer Architecture](.\IMAGES\TRANSFORMER_ARCHITECVTURRE.png)
+![Transformer Architecture](IMAGES\TRANSFORMER_ARCHITECVTURRE.png)
 **Feed-Forward Network**
 A position-wise feed-forward network that expands embeddings to 4x their dimension through a GELU activation, then projects back. This acts as a learned non-linearity over the embedding space.
 
@@ -36,7 +36,7 @@ Custom implementation of layer normalization with learnable scale and shift para
 Gaussian Error Linear Unit activation function using the tanh approximation, providing smoother gradients than ReLU while maintaining strong model capacity.
 
 ## 📊 Model Configuration
-![GPT-2 Architecture](.\IMAGES\TRANSFORMER_ARCHITECVTURRE.jpg)
+![GPT-2 Architecture](IMAGES\TRANSFORMER_ARCHITECVTURRE.jpg)
 ```
 GPT-2 (124M Parameters):
 ├── Vocabulary Size: 50,257 tokens

@@ -162,7 +162,7 @@ After studying this codebase, you'll understand:
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) - Original Transformer paper
 **Video Tutorials:**
-- [Lecture 1: Building LLMs from Scratch - Series Introduction](https://youtu.be/Xpr8D6LeAtw?si=5VK1Rbq-c_4UhdS-) - Comprehensive introduction to building language models from the ground up
+- [Lecture 1: Building LLMs from Scratch - Series Introduction](https://youtu.be/Xpr8D6LeAtw?si=5VK1Rbq-c_4UhdS-) - Comprehensive guide  to building language models from the ground up
 
 ## 📝 Dataset Considerations
 
